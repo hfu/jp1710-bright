@@ -1,0 +1,6 @@
+{
+  "tiles":["https://hfu.github.io/jp1710_{z}/{x}/{y}.mvt"],
+  "attribution":"&copy; OpenMapTiles &copy; OpenStreetMap contributors",
+  "maxzoom":14,
+  "tilejson":"2.2.0"
+}
